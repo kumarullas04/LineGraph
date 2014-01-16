@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LineGraph</string>
+    <string name="action_settings">Settings</string>
+    <string name="import_txt_file">Import text file</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

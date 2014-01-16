@@ -1,0 +1,5 @@
+* In this project fixed 20 units are drawn along X-axis and Y-axis.
+* By default the file will be read from "raw/sample_input.txt" file.
+* User can import any text files from internal memory or SD-Card using menu option.
+
+
